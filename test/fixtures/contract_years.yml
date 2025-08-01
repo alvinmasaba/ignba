@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  contract: one
+  season: one
+  amount: 1
+  waived: false
+  two_way: false
+  option: MyString
+
+two:
+  contract: two
+  season: two
+  amount: 1
+  waived: false
+  two_way: false
+  option: MyString
